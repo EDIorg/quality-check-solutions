@@ -8,12 +8,8 @@ Message returned by the quality check issue
 
 ### Description:
 
-A brief description of the quality check issue and why it is important to address.
+_A brief description of the quality check issue and why it is important to address._
 
-### Problematic content:
+### Solution:
 
-A description or example of the content that triggers the quality check issue.
-
-### Correct content:
-
-A description or example of the corrected content that silences the quality check issue.
+One or more solutions to the quality check issue. Keep it concise and actionable.

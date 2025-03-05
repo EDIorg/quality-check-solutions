@@ -1,4 +1,4 @@
-# Title-of-the-quality-check-issue
+# Title of the Quality Check
 
 ### Message:
 

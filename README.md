@@ -22,3 +22,5 @@ The repository is organized as follows:
 ## Contributing  
 
 We welcome contributions to improve this repository. If you would like to add or update a solution document, please use the `template.md` file as a starting point and follow the repository's structure. 
+
+Modifications, including pull requests, are made through the `development` branch. Once changes are reviewed and approved, they will be merged into the `main` branch.

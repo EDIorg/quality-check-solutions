@@ -3,7 +3,7 @@
 ### Message:
 
 ```
-Record Delimiter (e.g. \r\n) is required by EDI.
+Warning/Error: Record Delimiter (e.g. \r\n) is required by EDI.
 ```
 
 ### Description:

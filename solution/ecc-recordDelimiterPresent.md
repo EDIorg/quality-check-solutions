@@ -3,7 +3,7 @@
 ### Message:
 
 ```
-The record delimiter is not present or is not one of the suggested values.
+Warning/Error: The record delimiter is not present or is not one of the suggested values.
 ```
 
 ### Description:

@@ -3,7 +3,7 @@
 ### Message:
 
 ```
-Message returned by the quality check issue
+Warning/Error: Message returned by the quality check issue
 ```
 
 ### Description:

@@ -1,4 +1,4 @@
-# Record delimiter missing
+# Record delimiter present
 
 ### Message:
 

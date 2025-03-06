@@ -83,7 +83,7 @@ ecc,datasetAbstractLength,ecc-datasetAbstractLength.md,
 ecc,keywordPresent,ecc-keywordPresent.md,
 ecc,coveragePresent,ecc-schemaValid.md,"Exceptions arising from this check are raised in the schemaValid check. Therefore, we are collating all exceptions related to the schemaValid check in one solution document, where users can browse to find the particular issue they have encountered."
 ecc,geographicCoveragePresent,ecc-geographicCoveragePresent.md,
-ecc,temporalCoveragePresent,,
+ecc,temporalCoveragePresent,ecc-temporalCoveragePresent.md,
 ecc,duplicateEntityName,,
 ecc,entityDescriptionPresent,,
 ecc,recordDelimiterPresent,ecc-recordDelimiterPresent.md,

@@ -84,7 +84,7 @@ ecc,keywordPresent,solutions/ECC/keywordPresent.md,
 ecc,coveragePresent,solutions/ECC/schemaValid.md,"Exceptions arising from this check are raised in the schemaValid check. Therefore, we are collating all exceptions related to the schemaValid check in one solutions document, where users can browse to find the particular issue they have encountered."
 ecc,geographicCoveragePresent,solutions/ECC/geographicCoveragePresent.md,
 ecc,temporalCoveragePresent,solutions/ECC/temporalCoveragePresent.md,
-ecc,duplicateEntityName,,
+ecc,duplicateEntityName,solutions/ECC/duplicateEntityName.md,
 ecc,entityDescriptionPresent,,
 ecc,recordDelimiterPresent,solutions/ECC/recordDelimiterPresent.md,
 ecc,entitySizePresence,,

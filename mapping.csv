@@ -85,7 +85,7 @@ ecc,coveragePresent,solutions/ECC/schemaValid.md,"Exceptions arising from this c
 ecc,geographicCoveragePresent,solutions/ECC/geographicCoveragePresent.md,
 ecc,temporalCoveragePresent,solutions/ECC/temporalCoveragePresent.md,
 ecc,duplicateEntityName,solutions/ECC/duplicateEntityName.md,
-ecc,entityDescriptionPresent,,
+ecc,entityDescriptionPresent,solutions/ECC/entityDescriptionPresent.md,
 ecc,recordDelimiterPresent,solutions/ECC/recordDelimiterPresent.md,
 ecc,entitySizePresence,,
 ecc,integrityChecksum,,

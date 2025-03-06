@@ -16,7 +16,7 @@ Currently, much of this information is shared through interactions with the data
 The repository is organized as follows:  
 
 - **`mapping.csv`**: A crosswalk file that links ECC and ezEML quality check identifiers to corresponding solution documents.  
-- **`solution/`**: A directory containing markdown-formatted documents. Each document describes a quality check issue and common solutions.  
+- **`solutions/`**: A directory containing markdown-formatted documents. Each document describes a quality check issue and common solutions.  
 - **`template.md`**: A template for creating new solution documents, ensuring consistency in format and content.  
 
 ## Contributing  

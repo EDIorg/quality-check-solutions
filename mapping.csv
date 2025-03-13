@@ -95,7 +95,7 @@ ecc,dateTimeFormatString,solutions/ECC/dateFormatMatches.md,
 ecc,schemaValid,solutions/ECC/schemaValid.md,"A multitude of exceptions arise from this check. Therefore, we are collating all exceptions related to the schemaValid check in one solutions document, where users can browse to find the particular issue they have encountered."
 ecc,methodsElementPresent,solutions/ECC/methodsElementPresent.md,
 ecc,packageIdPattern,solutions/ECC/packageIdPattern.md,
-ecc,attributeNamesUnique,,
+ecc,attributeNamesUnique,solutions/ECC/attributeNamesUnique.md,
 ecc,databaseTableCreated,,
 ecc,dataLoadStatus,,
 ecc,displayDownloadData,,

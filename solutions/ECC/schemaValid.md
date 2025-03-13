@@ -2,6 +2,7 @@
 
 A variety of issues can arise under this general check. To help you navigate them, we’ve outlined different potential issues below. Please search for the specific message you are encountering to find out more about the issue and how to resolve it.
 
+A good way to identify and resolve **schema validation** issues is to open the **EML XML document** in an XML editor, which can provide feedback on specific errors. Additionally, the **EMLvp** Python package can help identify schema validation issues. For more information, see the [EMLvp GitHub repository](https://github.com/PASTAplus/EMLvp).
 
 ## Coverage Present
 

@@ -96,7 +96,7 @@ ecc,schemaValid,solutions/ECC/schemaValid.md,"A multitude of exceptions arise fr
 ecc,methodsElementPresent,solutions/ECC/methodsElementPresent.md,
 ecc,packageIdPattern,solutions/ECC/packageIdPattern.md,
 ecc,attributeNamesUnique,solutions/ECC/attributeNamesUnique.md,
-ecc,databaseTableCreated,,
+ecc,databaseTableCreated,solutions/ECC/databaseTableCreated.md,
 ecc,dataLoadStatus,,
 ecc,displayDownloadData,,
 ecc,displayFirstInsertRow,,

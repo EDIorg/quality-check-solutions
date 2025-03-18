@@ -7,7 +7,14 @@
     .content {
       margin: 50px;
       word-wrap: break-word;
-      white-space: pre-wrap;
+    }
+    /* Add this CSS to enable word wrapping for code blocks */
+    .content pre, .content code {
+      white-space: pre-wrap; /* CSS3 */
+      white-space: -moz-pre-wrap; /* Mozilla */
+      white-space: -pre-wrap; /* Opera 4-6 */
+      white-space: -o-pre-wrap; /* Opera 7 */
+      word-wrap: break-word; /* IE */
     }
   </style>
 </head>
